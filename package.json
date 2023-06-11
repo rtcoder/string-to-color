@@ -2,7 +2,8 @@
   "name": "@rtcoder/string-to-color",
   "version": "1.0.0",
   "description": "A library to convert any string to hex color",
-  "main": "index.js",
+  "main": "dist/string-to-color.js",
+  "types": "dist/string-to-color.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
@@ -38,5 +39,8 @@
   "bugs": {
     "url": "https://github.com/rtcoder/string-to-color/issues"
   },
-  "homepage": "https://github.com/rtcoder/string-to-color#readme"
+  "homepage": "https://github.com/rtcoder/string-to-color#readme",
+  "files": [
+    "dist/*"
+  ]
 }
