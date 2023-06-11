@@ -1,6 +1,6 @@
 {
   "name": "@rtcoder/string-to-color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to convert any string to hex color",
   "main": "dist/string-to-color.js",
   "types": "dist/string-to-color.d.ts",
