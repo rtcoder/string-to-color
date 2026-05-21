@@ -1,0 +1,1 @@
+{"version":3,"file":"string-to-color.d.ts","sourceRoot":"","sources":["../../src/string-to-color.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,oBAAoB;IACnC,MAAM,CAAC,EAAE,KAAK,GAAG,KAAK,CAAC;IACvB,UAAU,CAAC,EAAE,MAAM,CAAC;IACpB,SAAS,CAAC,EAAE,MAAM,CAAC;CACpB;AAuCD,wBAAgB,aAAa,CAC3B,GAAG,EAAE,MAAM,EACX,OAAO,GAAE,oBAAyB,GACjC,MAAM,CAYR"}
